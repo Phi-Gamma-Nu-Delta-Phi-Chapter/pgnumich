@@ -102,7 +102,7 @@ h2 {
 
 @media screen and (max-width: 899px) {
   div#home-header h1 {
-    font: normal normal 100 350% "Open Sans", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font: normal normal 100 350% "Open Sans", "sans-serif";
 	font-weight: 100;
     padding: 0px 0px;
 	margin: auto;
@@ -139,7 +139,7 @@ h2 {
 
 @media screen and (min-width: 900px) {
   div#home-header h2 {
-    font: normal normal 500 175% "Open Sans", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font: normal normal 500 175% "Open Sans", "sans-serif";
     padding: 20px 0px 100px 0px;
 	margin: auto;
   }
@@ -147,7 +147,7 @@ h2 {
 
 @media screen and (max-width: 899px) {
   div#home-header h2 {
-    font: normal normal 500 100% "Open Sans", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font: normal normal 500 100% "Open Sans", "sans-serif";
     padding: 20px 0px 100px 0px;
 	margin: auto;
   }
@@ -156,7 +156,7 @@ h2 {
 #home-header a {
     
     color: white;
-    font: normal normal 500 25px "Open Sans", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font: normal normal 500 25px "Open Sans", "sans-serif";
     text-decoration: none;
     
     border-radius: 35px;
@@ -208,7 +208,7 @@ h2 {
 
     border-bottom: solid thick #FFCB05;
 	
-	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-family: "Open Sans", "sans-serif";
 }
 
 
@@ -354,13 +354,13 @@ section {
 #schedule h3 {
 	font-size: 32px;
     font-weight: 200;
-	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-family: "Open Sans", "sans-serif";
 }
 
 #schedule h4 {
     color: #800000;
     font-size: 17px;
-	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-family: "Open Sans", "sans-serif";
 	font-weight: 900;
 }
 
@@ -376,7 +376,7 @@ section {
 #schedule p {
     color: #888888;
 	margin-bottom: 5px;
-	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-family: "Open Sans", "sans-serif";
 	font-weight: 600;
 	font-size: 15px;
 }
@@ -385,7 +385,7 @@ section {
     font-style: italic;
     margin: 0px;
     font-size: 13px;
-	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-family: "Open Sans", "sans-serif";
 }
 
 .schedule-event {
@@ -567,7 +567,7 @@ section {
 }
 
 #footer h2{
-	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-family: "Open Sans", "sans-serif";
 	font-size: 28px;
 }
 
@@ -812,7 +812,7 @@ section {
 }
 
 .eboard-card h4 {
-	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-family: "Open Sans", "sans-serif";
 	font-weight: 500;
 }
 
@@ -926,7 +926,7 @@ section {
 	margin-right: auto;
 	margin-top: 5px;
 	display: block;
-	font-family: Raleway, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-family: "Open Sans", "sans-serif";
 	box-shadow: 1px 1px 1px .5px #AAAAAA;
 	font-size: 18px;
 }
@@ -953,7 +953,7 @@ section {
 	border-color: #a9a9a9;
 	margin-top: 0px;
 	box-shadow: 1px 1px 1px .5px #AAAAAA;
-	font-family: Raleway, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-family: "Open Sans", "sans-serif";
 	font-size: 15px;
 }
 
