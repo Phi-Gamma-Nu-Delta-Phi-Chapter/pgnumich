@@ -13,7 +13,7 @@
 body {
     color: black;
     background-color: transparent;
-    font: 100 12px "Open Sans";
+    font: 100 12px "Open Sans", "sans-serif";
 
     margin: 0px;
     padding: 0px;
@@ -22,7 +22,7 @@ body {
 
 
 h2 {
-    font: normal normal 200 24px "Open Sans", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font: normal normal 200 24px "Open Sans", "sans-serif";
 }
 
 
@@ -93,7 +93,7 @@ h2 {
 
 @media screen and (min-width: 900px) {
   div#home-header h1 {
-    font: normal normal 100 650% "Open Sans", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font: normal normal 100 650% "Open Sans", "sans-serif";
 	font-weight: 100;
     padding: 0px 0px;
 	margin: auto;
