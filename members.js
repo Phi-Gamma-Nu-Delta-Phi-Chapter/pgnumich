@@ -51,7 +51,7 @@ function eboard_card (name, title, text, year, linkedin, email) {
     
     // create image
     var img = document.createElement("img");
-    img.setAttribute("src", "pgn-bro-list-data/pgn-bro-list-" + name.toLowerCase().replace(" ", "-") + ".jpg");
+    img.setAttribute("src", "pgn-bro-list-data/pgn-bro-list-" + name.toLowerCase().replace(" ", "-") + ".JPG");
     
     // create textbox
     var inner1 = document.createElement("div");
