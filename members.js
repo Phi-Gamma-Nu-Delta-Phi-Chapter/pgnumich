@@ -15,7 +15,7 @@ eboardlinkedins = eboardlinkedins.innerHTML.toString().split(";");
 eboardemails = eboardemails.innerHTML.toString().split(";");
 
 
-var classnames = ["Omicron","Xi", "Nu", "Mu", "Lambda", "Kappa", "Iota", "Theta", "Eta"];
+var classnames = ["Pi","Omicron","Xi", "Nu", "Mu", "Lambda", "Kappa", "Iota", "Theta", "Eta"];
 var brolists = [];
 
 for (i = 0; i < classnames.length; ++i) brolists[i] = document.getElementById(classnames[i].toLowerCase());

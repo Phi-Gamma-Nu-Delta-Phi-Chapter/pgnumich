@@ -242,7 +242,7 @@ h2 {
 }
 
 #president a:hover {
-	color: #FFCB05
+	color: rgb(255, 203, 5)
 }
 
 
@@ -374,7 +374,7 @@ section {
 }
 
 #schedule p {
-    color: #888888;
+    color: rgb(136, 136, 136);
 	margin-bottom: 5px;
 	font-family: "Open Sans", "sans-serif";
 	font-weight: 600;
